@@ -1,0 +1,14 @@
+Natural language processing refers to the branch of
+computer science and more specifically the branch of 
+artificial intelligence, concerned with giving computers
+the ability to understand text and spoken words in much 
+the same way human beings can. Human language is filled with
+ambiguities that make it incredibly difficult to write software
+that accurately determines the intended meaning of text or voice
+data. Homonyms, homophones,sarcasm, idioms, metaphors, grammar
+and usage exceptions,variations in sentence structure. These
+just a few of the irregularities of human language that take
+humans years to learn, but that programmers must teach natural
+language driven applications to recognize and understand 
+accurately from the start if those applications are going to be
+useful.
