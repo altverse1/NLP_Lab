@@ -1,0 +1,11 @@
+With Bag of Words and TF-IDF text vectorization techniques we did not get semantic meaning of words But for most of the applications of NLP tasks like sentiment classification, sarcasm detection etc require semantic meaning of a word and semantic relationships of a word with other words.
+Word embeddings captures semantic and syntactic relationships between words and also the context of words in a document. 
+Word2vec technique used to implement word embeddings.
+Word2vec model takes input as a large size of corpus and produces output to vector space. 
+This vector space size may be in hundred of dimensionality. 
+Each word vector will be placed on this vector space. 
+In vector space words that share context commonly in a corpus are closer to each other. 
+Word vector having positions of corresponding words in a vector space.
+Word2vec models predict the context words of a center word using skip-gram method. 
+Skip-gram works well with a small dataset and identifies rare words really well and CBow is just a reverse method of the skip gram method.
+Here we are taking context words as input and predicting the center word within the window and another difference from skip gram method is, It was working faster and better representations for most frequency words.
